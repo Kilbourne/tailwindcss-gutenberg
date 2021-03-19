@@ -31,5 +31,8 @@
   },
   "dependencies": {
     "chroma-js": "^2.0.3"
-  }
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/Kilbourne"
+  },
 }
